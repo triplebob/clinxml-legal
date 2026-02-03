@@ -1,5 +1,10 @@
 # ClinXML™ Legal & Licensing Repository
 
+![ClinXML](https://img.shields.io/badge/ClinXML™-Framework-0A6EBD.svg)
+![ClinXML Legal](https://img.shields.io/badge/Legal-Authoritative%20Repository-7A1CAC.svg)
+![Proprietary](https://img.shields.io/badge/License-All%20Rights%20Reserved-B30000.svg)
+
+
 This repository provides the official legal, licensing, and compliance documents for the ClinXML™ family of tools, including:
 
 - ClinXML™ (core toolkit)
@@ -74,4 +79,4 @@ No modification, redistribution, or derivative works of these documents are perm
 
 ## Contact
 
-For licensing queries, permissions, or security concerns, please raise a support ticket on Github
+For licensing queries, permissions, or security concerns, please raise a support ticket via GitHub.
