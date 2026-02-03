@@ -80,3 +80,11 @@ No modification, redistribution, or derivative works of these documents are perm
 ## Contact
 
 For licensing queries, permissions, or security concerns, please raise a support ticket via GitHub.
+
+---
+
+**ClinXML™ Legal Repository**  
+**Document Type:** Legal Index & Governance Overview  
+**Version:** 1.0  
+**Published:** February 2026  
+**Status:** Public Reference Copy

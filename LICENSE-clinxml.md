@@ -26,3 +26,11 @@ not preserve file ownership information (including GitHub). Such systems
 do not grant any additional rights or permissions beyond those explicitly
 stated in this license.
 
+---
+
+**ClinXML™ Legal Document**  
+**Document Type:** License  
+**Applies To:** ClinXML Toolkit  
+**Version:** 1.0  
+**Published:** February 2026  
+**Status:** Public Reference Copy

@@ -14,3 +14,12 @@ responsibility for decisions made.
 This dashboard is not affiliated with, endorsed by, or sponsored by EMIS,
 TPP, NHS England, or any other clinical system provider. All trademarks
 referenced herein are the property of their respective owners.
+
+---
+
+**ClinXML™ Legal Document**  
+**Document Type:** NOTICE (Attribution & Copyright)  
+**Applies To:** MLCSU QOF Achievement Dashboard  
+**Version:** 1.0  
+**Published:** February 2026  
+**Status:** Public Reference Copy

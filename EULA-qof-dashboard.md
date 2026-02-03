@@ -32,3 +32,16 @@ All trademarks are the property of their respective owners.
 This license terminates automatically if you violate any term of this Agreement.
 
 By using the Software, you acknowledge that you have read, understood, and agree to be bound by this Agreement.
+
+
+---
+
+**ClinXML™ Legal Document**  
+**Document Type:** End User License Agreement  
+**Applies To:** MLCSU QOF Achievement Dashboard  
+**Version:** 1.0  
+**Published:** February 2026  
+**Status:** Public Reference Copy
+
+
+
