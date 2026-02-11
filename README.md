@@ -8,7 +8,7 @@
 This repository provides the official legal, licensing, and compliance documents for the ClinXML™ family of tools, including:
 
 - ClinXML™ (core toolkit)
-- MLCSU QOF Achievement Dashboard
+- MLCSU QOF & Prevalence Dashboard
 - Any future ClinXML™ applications, utilities, or dashboards
 
 All documents in this repository are publicly accessible to support transparency, responsible use, and clear licensing boundaries across the ClinXML™ ecosystem.
@@ -34,7 +34,7 @@ No application code, data, or proprietary logic is stored here.
 
 ### **1. EULAs**
 - `EULA-clinxml.md` — ClinXML™ core toolkit  
-- `EULA-qof-dashboard.md` — MLCSU QOF Achievement Dashboard  
+- `EULA-qof-dashboard.md` — MLCSU QOF & Prevalence Dashboard  
 
 ### **2. Licenses**
 - `LICENSE-clinxml.md`  
@@ -68,7 +68,7 @@ All trademarks referenced in this repository are the property of their respectiv
 These documents may be referenced or linked by:
 
 - ClinXML™ applications  
-- MLCSU QOF Achievement Dashboard  
+- MLCSU QOF & Prevalence Dashboard  
 - External organisations using ClinXML™ tools  
 - Information Governance teams  
 - Reviewers, auditors, and compliance officers  

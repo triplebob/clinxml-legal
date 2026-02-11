@@ -1,9 +1,9 @@
-# MLCSU QOF Achievement Dashboard — End User License Agreement (EULA)
+# MLCSU QOF & Prevalence Dashboard — End User License Agreement (EULA)
 
 © 2026 ClinXML™. All rights reserved.  
-The MLCSU QOF Achievement Dashboard is part of the ClinXML™ family of tools.
+The MLCSU QOF & Prevalence Dashboard is part of the ClinXML™ family of tools.
 
-This End User License Agreement (“Agreement”) governs your use of the MLCSU QOF Achievement Dashboard (“Software”). By using the Software, you agree to the terms below.
+This End User License Agreement (“Agreement”) governs your use of the MLCSU QOF & Prevalence Dashboard (“Software”). By using the Software, you agree to the terms below.
 
 ## 1. License Grant
 You are granted a non‑exclusive, non‑transferable, revocable license to use the Software for personal or internal organisational purposes only.
@@ -38,7 +38,7 @@ By using the Software, you acknowledge that you have read, understood, and agree
 
 **ClinXML™ Legal Document**  
 **Document Type:** End User License Agreement  
-**Applies To:** MLCSU QOF Achievement Dashboard  
+**Applies To:** MLCSU QOF & Prevalence Dashboard  
 **Version:** 1.0  
 **Published:** February 2026  
 **Status:** Public Reference Copy

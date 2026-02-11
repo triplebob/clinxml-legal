@@ -1,6 +1,6 @@
 Copyright © 2026 ClinXML™
 
-The MLCSU QOF Achievement Dashboard is part of the ClinXML™ family of tools.
+The MLCSU QOF & Prevalence Dashboard is part of the ClinXML™ family of tools.
 All rights reserved.
 
 Permission is NOT granted to copy, modify, merge, publish, distribute,
@@ -30,7 +30,7 @@ stated in this license.
 
 **ClinXML™ Legal Document**  
 **Document Type:** License  
-**Applies To:** MLCSU QOF Achievement Dashboard  
+**Applies To:** MLCSU QOF & Prevalence Dashboard  
 **Version:** 1.0  
 **Published:** February 2026  
 **Status:** Public Reference Copy
