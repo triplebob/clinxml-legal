@@ -39,7 +39,7 @@ to be bound by this Agreement.
 
 **ClinXML™ Legal Document**  
 **Document Type:** End User License Agreement  
-**Applies To:** ClinXML Toolkit  
+**Applies To:** ClinXML™ Toolkit  
 **Version:** 1.0  
 **Published:** February 2026  
 **Status:** Public Reference Copy

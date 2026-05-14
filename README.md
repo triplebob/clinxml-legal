@@ -7,7 +7,8 @@
 
 This repository provides the official legal, licensing, and compliance documents for the ClinXML™ family of tools, including:
 
-- ClinXML™ (core toolkit)
+- ClinXML™ Toolkit
+- ClinXML™ SNOMED Refset Toolkit
 - MLCSU QOF & Prevalence Dashboard
 - Any future ClinXML™ applications, utilities, or dashboards
 
@@ -33,7 +34,9 @@ No application code, data, or proprietary logic is stored here.
 ## Contents
 
 ### **1. EULAs**
-- `EULA-clinxml.md` — ClinXML™ core toolkit  
+- `EULA-clinxml.md` — ClinXML™ Toolkit  
+- `EULA-snomed-refset-toolkit.md` — ClinXML™ SNOMED Refset Toolkit  
+- `EULA-mkbunpacker.md` — ClinXML MKBUnpacker  
 - `EULA-qof-dashboard.md` — MLCSU QOF & Prevalence Dashboard  
 
 ### **2. Licenses**
