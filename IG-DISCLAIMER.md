@@ -8,7 +8,7 @@ Users must independently verify all outputs and accept full responsibility for d
 
 **ClinXML™ Legal Document**  
 **Document Type:** Information Governance Disclaimer  
-**Applies To:** All ClinXML Family Tools  
+**Applies To:** All ClinXML™ Family Tools  
 **Version:** 1.0  
 **Published:** February 2026  
 **Status:** Public Reference Copy

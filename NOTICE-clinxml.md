@@ -14,7 +14,7 @@ All trademarks referenced herein are the property of their respective owners.
 
 **ClinXML™ Legal Document**  
 **Document Type:** NOTICE (Attribution & Copyright)  
-**Applies To:** ClinXML Toolkit  
+**Applies To:** ClinXML™ Toolkit  
 **Version:** 1.0  
 **Published:** February 2026  
 **Status:** Public Reference Copy
