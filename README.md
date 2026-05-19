@@ -36,19 +36,19 @@ No application code, data, or proprietary logic is stored here.
 
 ### **1. EULAs**
 - `EULA-clinxml.md` — ClinXML™ Toolkit  
-- `EULA-snomed-refset-toolkit.md` — ClinXML™ SNOMED Refset Toolkit  
+- `EULA-clinxml-snomed-toolkit.md` — ClinXML™ SNOMED Refset Toolkit  
 - `EULA-mkbunpacker.md` — ClinXML MKBUnpacker  
 - `EULA-qof-dashboard.md` — MLCSU QOF & Prevalence Dashboard  
 
 ### **2. Licenses**
 - `LICENSE-clinxml.md` — ClinXML™ Toolkit  
-- `LICENSE-snomed-refset-toolkit.md` — ClinXML™ SNOMED Refset Toolkit  
+- `LICENSE-clinxml-snomed-toolkit.md` — ClinXML™ SNOMED Refset Toolkit  
 - `LICENSE-mkbunpacker.md` — ClinXML MKBUnpacker  
 - `LICENSE-qof-dashboard.md` — MLCSU QOF & Prevalence Dashboard  
 
 ### **3. Notices**
 - `NOTICE-clinxml.md` — ClinXML™ Toolkit  
-- `NOTICE-snomed-refset-toolkit.md` — ClinXML™ SNOMED Refset Toolkit  
+- `NOTICE-clinxml-snomed-toolkit.md` — ClinXML™ SNOMED Refset Toolkit  
 - `NOTICE-mkbunpacker.md` — ClinXML MKBUnpacker  
 - `NOTICE-qof-dashboard.md` — MLCSU QOF & Prevalence Dashboard  
 
