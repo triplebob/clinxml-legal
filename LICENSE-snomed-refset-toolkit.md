@@ -33,7 +33,7 @@ stated in this license.
 
 **ClinXML™ Legal Document**  
 **Document Type:** License  
-**Applies To:** ClinXML™ SNOMED Refset Toolkit  
+**Applies To:** SNOMED Refset Toolkit  
 **Version:** 1.0  
 **Published:** May 2026  
 **Status:** Public Reference Copy

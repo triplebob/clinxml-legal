@@ -1,9 +1,8 @@
-# ClinXML™ SNOMED Refset Toolkit — End User License Agreement (EULA)
+# SNOMED Refset Toolkit — End User License Agreement (EULA)
 
 © 2026 ClinXML™. All rights reserved.
 
-This End User License Agreement ("Agreement") governs your use of the ClinXML™ SNOMED
-Refset Toolkit ("Software"). By using the Software, you agree to the terms below.
+This End User License Agreement ("Agreement") governs your use of the SNOMED Refset Toolkit ("Software"). By using the Software, you agree to the terms below.
 
 ## 1. License Grant
 You are granted a non‑exclusive, non‑transferable, revocable license to use the
@@ -45,7 +44,7 @@ to be bound by this Agreement.
 
 **ClinXML™ Legal Document**  
 **Document Type:** End User License Agreement  
-**Applies To:** ClinXML™ SNOMED Refset Toolkit  
+**Applies To:** SNOMED Refset Toolkit  
 **Version:** 1.0  
 **Published:** May 2026  
 **Status:** Public Reference Copy

@@ -8,9 +8,7 @@
 This repository provides the official legal, licensing, and compliance documents for the ClinXML™ family of tools, including:
 
 - ClinXML™ Toolkit
-- ClinXML™ SNOMED Refset Toolkit
-- ClinXML MKBUnpacker
-- MLCSU QOF & Prevalence Dashboard
+- SNOMED Refset Toolkit
 - Any future ClinXML™ applications, utilities, or dashboards
 
 All documents in this repository are publicly accessible to support transparency, responsible use, and clear licensing boundaries across the ClinXML™ ecosystem.
@@ -36,21 +34,15 @@ No application code, data, or proprietary logic is stored here.
 
 ### **1. EULAs**
 - `EULA-clinxml.md` — ClinXML™ Toolkit  
-- `EULA-clinxml-snomed-toolkit.md` — ClinXML™ SNOMED Refset Toolkit  
-- `EULA-mkbunpacker.md` — ClinXML MKBUnpacker  
-- `EULA-qof-dashboard.md` — MLCSU QOF & Prevalence Dashboard  
+- `EULA-snomed-refset-toolkit.md` — SNOMED Refset Toolkit  
 
 ### **2. Licenses**
 - `LICENSE-clinxml.md` — ClinXML™ Toolkit  
-- `LICENSE-clinxml-snomed-toolkit.md` — ClinXML™ SNOMED Refset Toolkit  
-- `LICENSE-mkbunpacker.md` — ClinXML MKBUnpacker  
-- `LICENSE-qof-dashboard.md` — MLCSU QOF & Prevalence Dashboard  
+- `LICENSE-snomed-refset-toolkit.md` — SNOMED Refset Toolkit  
 
 ### **3. Notices**
 - `NOTICE-clinxml.md` — ClinXML™ Toolkit  
-- `NOTICE-clinxml-snomed-toolkit.md` — ClinXML™ SNOMED Refset Toolkit  
-- `NOTICE-mkbunpacker.md` — ClinXML MKBUnpacker  
-- `NOTICE-qof-dashboard.md` — MLCSU QOF & Prevalence Dashboard  
+- `NOTICE-snomed-refset-toolkit.md` — SNOMED Refset Toolkit  
 
 ### **4. Trademark & Affiliation Statements**
 - `TRADEMARKS.md`  
@@ -59,9 +51,15 @@ No application code, data, or proprietary logic is stored here.
 - `IG-DISCLAIMER.md`  
   (Includes the approved “provided as is / no liability” wording)
 
+### **6. Privacy, Terms & Data Protection**
+- `PRIVACY-POLICY.md` — UK GDPR privacy policy for the ClinXML™ family of tools
+- `TERMS-OF-SERVICE.md` — Terms of Service for the ClinXML™ hosted services
+
 ---
 
 ## Brand & Ownership
+
+ClinXML™ is operated by **CLINXML LTD**, a company registered in England and Wales — registered office: 71–75 Shelton Street, Covent Garden, London, WC2H 9JQ, United Kingdom.
 
 All ClinXML™ tools, documentation, and associated materials are proprietary.  
 © 2026 ClinXML™ — All rights reserved.
@@ -76,7 +74,6 @@ All trademarks referenced in this repository are the property of their respectiv
 These documents may be referenced or linked by:
 
 - ClinXML™ applications  
-- MLCSU QOF & Prevalence Dashboard  
 - External organisations using ClinXML™ tools  
 - Information Governance teams  
 - Reviewers, auditors, and compliance officers  

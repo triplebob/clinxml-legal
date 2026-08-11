@@ -11,5 +11,6 @@ Users must independently verify all outputs and accept full responsibility for d
 **Applies To:** All ClinXML™ Family Tools  
 **Version:** 1.0  
 **Published:** February 2026  
+**Issued by:** CLINXML LTD (registered in England and Wales, company no. 17024167), 71-75 Shelton Street, Covent Garden, London, WC2H 9JQ, United Kingdom  
 **Status:** Public Reference Copy
 
