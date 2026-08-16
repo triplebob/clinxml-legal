@@ -5,13 +5,15 @@
 ![Proprietary](https://img.shields.io/badge/License-All%20Rights%20Reserved-B30000.svg)
 
 
-This repository provides the official legal, licensing, and compliance documents for the ClinXML™ family of tools, including:
+This repository provides the official legal, licensing, and compliance documents for the ClinXML™
+family of tools, including:
 
 - ClinXML™ Toolkit
 - SNOMED Refset Toolkit
 - Any future ClinXML™ applications, utilities, or dashboards
 
-All documents in this repository are publicly accessible to support transparency, responsible use, and clear licensing boundaries across the ClinXML™ ecosystem.
+All documents in this repository are publicly accessible to support transparency, responsible use,
+and clear licensing boundaries across the ClinXML™ ecosystem.
 
 ---
 
@@ -47,25 +49,31 @@ No application code, data, or proprietary logic is stored here.
 ### **4. Trademark & Affiliation Statements**
 - `TRADEMARKS.md`  
 
-### **5. Information Governance (IG) Disclaimers**
-- `IG-DISCLAIMER.md`  
+### **5. Warranty & Liability**
+- `WARRANTY-DISCLAIMER.md`  
   (Includes the approved “provided as is / no liability” wording)
 
-### **6. Privacy, Terms & Data Protection**
+### **6. Privacy & Data Protection**
 - `PRIVACY-POLICY.md` — UK GDPR privacy policy for the ClinXML™ family of tools
-- `TERMS-OF-SERVICE.md` — Terms of Service for the ClinXML™ hosted services
 
 ---
 
 ## Brand & Ownership
 
-ClinXML™ is operated by **CLINXML LTD**, a company registered in England and Wales — registered office: 71–75 Shelton Street, Covent Garden, London, WC2H 9JQ, United Kingdom.
+ClinXML™ is operated by **CLINXML LTD**, a company registered in England and Wales — registered
+office: 71–75 Shelton Street, Covent Garden, London, WC2H 9JQ, United Kingdom.
 
 All ClinXML™ tools, documentation, and associated materials are proprietary.  
 © 2026 ClinXML™ — All rights reserved.
 
-ClinXML™ is not affiliated with, endorsed by, or sponsored by EMIS, TPP, NHS England, Optum, or any other clinical system provider.  
-All trademarks referenced in this repository are the property of their respective owners.
+ClinXML™ is an independent product and is not affiliated with, endorsed by, or sponsored by NHS
+England, NHS Digital, SNOMED International, EMIS Health, Optum Inc, TPP (The Phoenix Partnership),
+Medicus Health Limited, any other clinical system provider or vendor, or any of their
+subsidiaries.
+SNOMED CT is a registered trademark of SNOMED International. EMIS and EMIS Web are trademarks of
+Optum Inc. SystmOne is a trademark of TPP (The Phoenix Partnership). Medicus is a trademark of
+Medicus Health Limited. All trademarks referenced in this repository are the property of their
+respective owners.
 
 ---
 
@@ -78,7 +86,8 @@ These documents may be referenced or linked by:
 - Information Governance teams  
 - Reviewers, auditors, and compliance officers  
 
-No modification, redistribution, or derivative works of these documents are permitted without explicit written permission.
+No modification, redistribution, or derivative works of these documents are permitted without
+explicit written permission.
 
 ---
 
@@ -90,6 +99,6 @@ For licensing queries, permissions, or security concerns, please raise a support
 
 **ClinXML™ Legal Repository**  
 **Document Type:** Legal Index & Governance Overview  
-**Version:** 1.0  
-**Published:** February 2026  
+**Version:** 1.1  
+**Published:** August 2026  
 **Status:** Public Reference Copy

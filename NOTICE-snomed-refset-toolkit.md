@@ -6,11 +6,13 @@ Unauthorised copying, modification, distribution, or commercial use of this
 software, in whole or in part, is strictly prohibited without prior written
 permission from the author.
 
-ClinXML™ is an independent toolkit and is not affiliated with, endorsed by,
-or sponsored by NHS England, NHS Digital, EMIS Health, Optum Inc, TPP (The
-Phoenix Partnership), or any of their subsidiaries. SNOMED CT is a registered
-trademark of SNOMED International. EMIS and EMIS Web are trademarks of Optum
-Inc. SystmOne is a trademark of TPP (The Phoenix Partnership). All trademarks
+ClinXML™ is an independent product and is not affiliated with, endorsed by,
+or sponsored by NHS England, NHS Digital, SNOMED International, EMIS Health,
+Optum Inc, TPP (The Phoenix Partnership), Medicus Health Limited, any other clinical
+system provider or vendor, or any of their subsidiaries. SNOMED CT is a registered trademark of SNOMED International.
+EMIS and EMIS Web are trademarks of Optum Inc. SystmOne is a trademark of TPP
+(The Phoenix Partnership). Medicus is a trademark of Medicus Health Limited.
+All trademarks
 referenced herein are the property of their respective owners.
 
 ## SNOMED CT attribution
@@ -35,6 +37,7 @@ itself, which is licensed separately as set out above, nor to EMIS-derived conte
 **ClinXML™ Legal Document**  
 **Document Type:** NOTICE (Attribution & Copyright)  
 **Applies To:** SNOMED Refset Toolkit  
-**Version:** 1.0  
-**Published:** May 2026  
+**Version:** 1.1  
+**Published:** August 2026  
+**Issued by:** CLINXML LTD (registered in England and Wales, company no. 17024167), 71-75 Shelton Street, Covent Garden, London, WC2H 9JQ, United Kingdom  
 **Status:** Public Reference Copy
