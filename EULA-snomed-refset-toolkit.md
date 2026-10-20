@@ -1,6 +1,6 @@
 # SNOMED Refset Toolkit - End User License Agreement (EULA)
 
-© 2026 ClinXML™. All rights reserved.
+© 2026 ClinXML®. All rights reserved.
 
 This End User License Agreement ("Agreement") governs your use of the SNOMED Refset Toolkit ("Software"). By using the Software, you agree to the terms below.
 
@@ -17,7 +17,7 @@ You may NOT:
 
 ## 3. Ownership
 The Software is proprietary. All rights, title, and interest remain with the
-author of ClinXML™.
+author of ClinXML®.
 
 ## 4. Disclaimer
 The Software is provided "as is" without warranties of any kind. The author is
@@ -27,7 +27,7 @@ and is provided for reference purposes only. It must not be used as the sole bas
 for clinical decision-making.
 
 ## 5. Trademarks
-ClinXML™ is an independent product and is not affiliated with, endorsed by, or
+ClinXML® is an independent product and is not affiliated with, endorsed by, or
 sponsored by NHS England, NHS Digital, SNOMED International, EMIS Health, Optum
 Inc, TPP (The Phoenix Partnership), Medicus Health Limited, any other clinical system
 provider or vendor, or any of their subsidiaries. SNOMED CT is a registered trademark of SNOMED International. EMIS
@@ -43,9 +43,9 @@ to be bound by this Agreement.
 
 ---
 
-**ClinXML™ Legal Document**  
+**ClinXML® Legal Document**  
 **Document Type:** End User License Agreement  
 **Applies To:** SNOMED Refset Toolkit  
-**Version:** 1.1  
-**Published:** August 2026  
+**Version:** 1.2  
+**Published:** October 2026  
 **Status:** Public Reference Copy

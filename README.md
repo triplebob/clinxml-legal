@@ -1,25 +1,25 @@
-# ClinXML™ Legal & Licensing Repository
+# ClinXML® Legal & Licensing Repository
 
-![ClinXML](https://img.shields.io/badge/ClinXML™-Framework-0A6EBD.svg)
+![ClinXML](https://img.shields.io/badge/ClinXML®-Framework-0A6EBD.svg)
 ![ClinXML Legal](https://img.shields.io/badge/Legal-Authoritative%20Repository-7A1CAC.svg)
 ![Proprietary](https://img.shields.io/badge/License-All%20Rights%20Reserved-B30000.svg)
 
 
-This repository provides the official legal, licensing, and compliance documents for the ClinXML™
+This repository provides the official legal, licensing, and compliance documents for the ClinXML®
 family of tools, including:
 
-- ClinXML™ Toolkit
+- ClinXML® Toolkit
 - SNOMED Refset Toolkit
-- Any future ClinXML™ applications, utilities, or dashboards
+- Any future ClinXML® applications, utilities, or dashboards
 
 All documents in this repository are publicly accessible to support transparency, responsible use,
-and clear licensing boundaries across the ClinXML™ ecosystem.
+and clear licensing boundaries across the ClinXML® ecosystem.
 
 ---
 
 ## Purpose
 
-The ClinXML™ Legal repository exists to:
+The ClinXML® Legal repository exists to:
 
 - Provide a single authoritative source for all licensing and legal notices  
 - Host End User License Agreements (EULAs) for ClinXML‑family applications  
@@ -35,15 +35,15 @@ No application code, data, or proprietary logic is stored here.
 ## Contents
 
 ### **1. EULAs**
-- `EULA-clinxml.md` - ClinXML™ Toolkit  
+- `EULA-clinxml.md` - ClinXML® Toolkit  
 - `EULA-snomed-refset-toolkit.md` - SNOMED Refset Toolkit  
 
 ### **2. Licenses**
-- `LICENSE-clinxml.md` - ClinXML™ Toolkit  
+- `LICENSE-clinxml.md` - ClinXML® Toolkit  
 - `LICENSE-snomed-refset-toolkit.md` - SNOMED Refset Toolkit  
 
 ### **3. Notices**
-- `NOTICE-clinxml.md` - ClinXML™ Toolkit  
+- `NOTICE-clinxml.md` - ClinXML® Toolkit  
 - `NOTICE-snomed-refset-toolkit.md` - SNOMED Refset Toolkit  
 
 ### **4. Trademark & Affiliation Statements**
@@ -54,19 +54,19 @@ No application code, data, or proprietary logic is stored here.
   (Includes the approved “provided as is / no liability” wording)
 
 ### **6. Privacy & Data Protection**
-- `PRIVACY-POLICY.md` - UK GDPR privacy policy for the ClinXML™ family of tools
+- `PRIVACY-POLICY.md` - UK GDPR privacy policy for the ClinXML® family of tools
 
 ---
 
 ## Brand & Ownership
 
-ClinXML™ is operated by **CLINXML LTD**, a company registered in England and Wales - registered
+ClinXML® is operated by **CLINXML LTD**, a company registered in England and Wales - registered
 office: 71-75 Shelton Street, Covent Garden, London, WC2H 9JQ, United Kingdom.
 
-All ClinXML™ tools, documentation, and associated materials are proprietary.  
-© 2026 ClinXML™ - All rights reserved.
+All ClinXML® tools, documentation, and associated materials are proprietary.  
+© 2026 ClinXML® - All rights reserved.
 
-ClinXML™ is an independent product and is not affiliated with, endorsed by, or sponsored by NHS
+ClinXML® is an independent product and is not affiliated with, endorsed by, or sponsored by NHS
 England, NHS Digital, SNOMED International, EMIS Health, Optum Inc, TPP (The Phoenix Partnership),
 Medicus Health Limited, any other clinical system provider or vendor, or any of their
 subsidiaries.
@@ -81,8 +81,8 @@ respective owners.
 
 These documents may be referenced or linked by:
 
-- ClinXML™ applications  
-- External organisations using ClinXML™ tools  
+- ClinXML® applications  
+- External organisations using ClinXML® tools  
 - Information Governance teams  
 - Reviewers, auditors, and compliance officers  
 
@@ -97,8 +97,8 @@ For licensing queries, permissions, or security concerns, please raise a support
 
 ---
 
-**ClinXML™ Legal Repository**  
+**ClinXML® Legal Repository**  
 **Document Type:** Legal Index & Governance Overview  
-**Version:** 1.1  
-**Published:** August 2026  
+**Version:** 1.2  
+**Published:** October 2026  
 **Status:** Public Reference Copy

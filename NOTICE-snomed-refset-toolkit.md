@@ -1,12 +1,12 @@
 SNOMED Refset Toolkit - Proprietary Software
-© 2026 ClinXML™. All rights reserved.
+© 2026 ClinXML®. All rights reserved.
 
 This software is proprietary and confidential.  
 Unauthorised copying, modification, distribution, or commercial use of this
 software, in whole or in part, is strictly prohibited without prior written
 permission from the author.
 
-ClinXML™ is an independent product and is not affiliated with, endorsed by,
+ClinXML® is an independent product and is not affiliated with, endorsed by,
 or sponsored by NHS England, NHS Digital, SNOMED International, EMIS Health,
 Optum Inc, TPP (The Phoenix Partnership), Medicus Health Limited, any other clinical
 system provider or vendor, or any of their subsidiaries. SNOMED CT is a registered trademark of SNOMED International.
@@ -34,10 +34,10 @@ itself, which is licensed separately as set out above, nor to EMIS-derived conte
 
 ---
 
-**ClinXML™ Legal Document**  
+**ClinXML® Legal Document**  
 **Document Type:** NOTICE (Attribution & Copyright)  
 **Applies To:** SNOMED Refset Toolkit  
-**Version:** 1.1  
-**Published:** August 2026  
+**Version:** 1.2  
+**Published:** October 2026  
 **Issued by:** CLINXML LTD (registered in England and Wales, company no. 17024167), 71-75 Shelton Street, Covent Garden, London, WC2H 9JQ, United Kingdom  
 **Status:** Public Reference Copy

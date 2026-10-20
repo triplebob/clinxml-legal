@@ -1,9 +1,9 @@
-# ClinXML™ Privacy Policy
+# ClinXML® Privacy Policy
 
-**Last updated:** 16 August 2026 · **Version:** 1.0
+**Last updated:** 20 October 2026 · **Version:** 1.1
 
-This Privacy Policy explains how personal data is collected and used across the **ClinXML™ family of
-tools** - the ClinXML™ Toolkit, the SNOMED Refset Toolkit, and the shared ClinXML™ account and identity
+This Privacy Policy explains how personal data is collected and used across the **ClinXML® family of
+tools** - the ClinXML® Toolkit, the SNOMED Refset Toolkit, and the shared ClinXML® account and identity
 service - and your rights under the UK General Data Protection Regulation (UK GDPR) and the Data
 Protection Act 2018.
 
@@ -14,7 +14,7 @@ It is written for our users, who are clinical informatics and healthcare profess
 ## 1. Who we are (the data controller)
 
 **CLINXML LTD**, a company registered in England and Wales (company number 17024167), trading as
-**ClinXML™** ("ClinXML", "we", "us", "our"), is the data controller for the personal data described in
+**ClinXML®** ("ClinXML", "we", "us", "our"), is the data controller for the personal data described in
 this policy.
 
 - **Registered office:** 71-75 Shelton Street, Covent Garden, London, WC2H 9JQ, United Kingdom
@@ -45,11 +45,11 @@ problem. It is not used for any other purpose.
 
 ## 3. The scope of this policy - what we do and do not process
 
-ClinXML™ tools help NHS clinical informatics teams build, analyse, and manage **EMIS clinical search and
+ClinXML® tools help NHS clinical informatics teams build, analyse, and manage **EMIS clinical search and
 report definitions** (and related SNOMED/EMIS code references). The files processed by the tools are
 **clinical code and search *definitions*, not patient records.**
 
-- The ClinXML™ tools are **not designed to process patient-identifiable data or special-category health
+- The ClinXML® tools are **not designed to process patient-identifiable data or special-category health
   data about patients**, and you must not upload patient-identifiable data to them.
 - Where you upload content (for example an EMIS XML search definition), **you and/or your organisation
   remain the controller of that content**; we process it only on your behalf to provide the features you
@@ -95,7 +95,7 @@ you have requested, they do not require consent.
 ## 6. Who we share data with (recipients and processors)
 
 We do not sell your personal data. We share it only with the service providers ("processors") that host
-and run the ClinXML™ infrastructure on our behalf, each under a data processing agreement:
+and run the ClinXML® infrastructure on our behalf, each under a data processing agreement:
 
 | Provider | Role | Where the data is held | Provider established in |
 |---|---|---|---|
@@ -213,7 +213,7 @@ resolve it. You also have the right to lodge a complaint with the UK supervisory
 
 ## 12. Children's privacy
 
-The ClinXML™ tools are workplace software for clinical informatics and healthcare professionals. Access
+The ClinXML® tools are workplace software for clinical informatics and healthcare professionals. Access
 requires an account issued for professional use, and every part of the service sits behind sign-in. The
 tools are not directed at children and are not likely to be accessed by them, so the ICO's Age
 Appropriate Design Code does not apply to them.
@@ -231,9 +231,9 @@ reasonable steps to notify affected users.
 
 ---
 
-**ClinXML™ Legal Document**
+**ClinXML® Legal Document**
 **Document Type:** Privacy Policy
-**Applies To:** All ClinXML™ Family Tools
-**Version:** 1.0
-**Published:** August 2026
+**Applies To:** All ClinXML® Family Tools
+**Version:** 1.1
+**Published:** October 2026
 **Status:** Public Reference Copy

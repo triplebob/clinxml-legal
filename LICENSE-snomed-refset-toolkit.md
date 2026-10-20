@@ -1,4 +1,4 @@
-Copyright © 2026 ClinXML™
+Copyright © 2026 ClinXML®
 
 All rights reserved.
 
@@ -16,7 +16,7 @@ fitness for a particular purpose, and noninfringement. In no event shall
 the authors be liable for any claim, damages, or other liability arising
 from the use of this software.
 
-ClinXML™ is an independent product and is not affiliated with, endorsed by,
+ClinXML® is an independent product and is not affiliated with, endorsed by,
 or sponsored by NHS England, NHS Digital, SNOMED International, EMIS Health,
 Optum Inc, TPP (The Phoenix Partnership), Medicus Health Limited, any other clinical
 system provider or vendor, or any of their subsidiaries. SNOMED CT is a registered trademark of SNOMED International.
@@ -33,9 +33,9 @@ stated in this license.
 
 ---
 
-**ClinXML™ Legal Document**  
+**ClinXML® Legal Document**  
 **Document Type:** License  
 **Applies To:** SNOMED Refset Toolkit  
-**Version:** 1.1  
-**Published:** August 2026  
+**Version:** 1.2  
+**Published:** October 2026  
 **Status:** Public Reference Copy
