@@ -2,7 +2,7 @@
 
 ClinXML® and all associated tools are proprietary products.
 
-## Registered trade mark
+## Registered Trade Mark
 
 ClinXML is a registered trade mark of CLINXML LTD (registered in England and Wales, company no. 17024167) in the United Kingdom, UK trade mark registration no. UK00004422395, registered in Class 42. The registration has effect in the United Kingdom only.
 

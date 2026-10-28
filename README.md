@@ -10,7 +10,8 @@ family of tools, including:
 
 - ClinXML® Toolkit
 - SNOMED Refset Toolkit
-- Any future ClinXML® applications, utilities, or dashboards
+
+Future hosted products will be added to the relevant documents when they are brought into scope.
 
 All documents in this repository are publicly accessible to support transparency, responsible use,
 and clear licensing boundaries across the ClinXML® ecosystem.
@@ -22,9 +23,9 @@ and clear licensing boundaries across the ClinXML® ecosystem.
 The ClinXML® Legal repository exists to:
 
 - Provide a single authoritative source for all licensing and legal notices  
-- Host End User License Agreements (EULAs) for ClinXML‑family applications  
+- Publish the Terms of Service for hosted ClinXML applications  
 - Publish trademark and affiliation disclaimers  
-- Maintain IG‑approved liability statements  
+- Publish privacy information and third-party data notices  
 - Support external users who need to reference legal terms without accessing private code repositories  
 
 This repository contains **legal documents only**.  
@@ -34,27 +35,17 @@ No application code, data, or proprietary logic is stored here.
 
 ## Contents
 
-### **1. EULAs**
-- `EULA-clinxml.md` - ClinXML® Toolkit  
-- `EULA-snomed-refset-toolkit.md` - SNOMED Refset Toolkit  
+### **1. Hosted Services**
+- `TERMS-OF-SERVICE.md` - terms for free, individual access to the hosted ClinXML Toolkit, SNOMED Refset Toolkit and shared account service  
 
-### **2. Licenses**
-- `LICENSE-clinxml.md` - ClinXML® Toolkit  
-- `LICENSE-snomed-refset-toolkit.md` - SNOMED Refset Toolkit  
+### **2. Privacy & Data Protection**
+- `PRIVACY-POLICY.md` - UK GDPR privacy policy for the ClinXML® family of tools  
 
 ### **3. Notices**
-- `NOTICE-clinxml.md` - ClinXML® Toolkit  
-- `NOTICE-snomed-refset-toolkit.md` - SNOMED Refset Toolkit  
+- `NOTICE.md` - copyright, trade marks and source-data attributions for both hosted toolkits  
 
 ### **4. Trademark & Affiliation Statements**
 - `TRADEMARKS.md`  
-
-### **5. Warranty & Liability**
-- `WARRANTY-DISCLAIMER.md`  
-  (Includes the approved “provided as is / no liability” wording)
-
-### **6. Privacy & Data Protection**
-- `PRIVACY-POLICY.md` - UK GDPR privacy policy for the ClinXML® family of tools
 
 ---
 
@@ -64,7 +55,7 @@ ClinXML® is operated by **CLINXML LTD**, a company registered in England and Wa
 office: 71-75 Shelton Street, Covent Garden, London, WC2H 9JQ, United Kingdom.
 
 All ClinXML® tools, documentation, and associated materials are proprietary.  
-© 2026 ClinXML® - All rights reserved.
+© 2026 CLINXML LTD. All rights reserved.
 
 ClinXML® is an independent product and is not affiliated with, endorsed by, or sponsored by NHS
 England, NHS Digital, SNOMED International, EMIS Health, Optum Inc, TPP (The Phoenix Partnership),
@@ -93,7 +84,7 @@ explicit written permission.
 
 ## Contact
 
-For licensing queries, permissions, or security concerns, please raise a support ticket via GitHub.
+For licensing queries, permissions, or security concerns, email legal@clinxml.com.
 
 ---
 
